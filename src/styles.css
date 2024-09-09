@@ -1,0 +1,47 @@
+.day-theme {
+    background: linear-gradient(to right, #ffee58, #e7b306);
+   
+    color: #333;
+}
+ 
+.night-theme {
+    background: linear-gradient(to right, #576c9c, #001b52);
+    color: #fff;
+}
+ 
+.weather-app {
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    max-width: 400px;
+    margin: 50px auto;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    margin-top: 15%;
+    
+}
+ 
+input {
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    width: 80%;
+    margin-bottom: 20px;
+ 
+    
+}
+ 
+h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+ 
+h2 {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+ 
+.icon {
+    margin: 20px 0;
+}
+ 
+ 
